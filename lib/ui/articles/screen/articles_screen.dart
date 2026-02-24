@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:news_app/core/remote/api/api_manager.dart';
 import 'package:news_app/core/resources/app_colors.dart';
-
-
 import 'package:news_app/model/category_model.dart';
 import 'package:news_app/model/sources_response/Source.dart';
 import 'package:news_app/ui/articles/widgets/articles_list.dart';
